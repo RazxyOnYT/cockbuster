@@ -68,3 +68,8 @@
     "build": "jspm bundle index.coffee!"
   }
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
